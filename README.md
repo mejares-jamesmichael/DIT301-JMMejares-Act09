@@ -28,5 +28,3 @@ The app uses dedicated services to manage the application state and interface wi
 | Login Screen | Chat Screen | Chat Reply  |
 | :---: | :---: | :---: |
 | ![Login Screen](screenshots/login_screen.png) | ![Chat Screen](screenshots/chat_screen.png) | ![Chat Reply](screenshots/chat_screen_reply.png) |
-
-*Note: Please add the screenshot files to the `screenshots/` directory with the names specified above.*
